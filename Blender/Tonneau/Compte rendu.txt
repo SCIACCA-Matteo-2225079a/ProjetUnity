@@ -1,0 +1,11 @@
+cube
+
+aplati pour devenir une planche
+
+simpledeform pour l'arrondir grâce aux cuts de loop cut
+
+array pour dupliquer la planche autour d'un empty
+
+fait un cylindre à l'intérieur pour donner sens de profondeur
+
+faut un cylinder plat au dessus pour faire le bouchon et puis mirror pour le mettre en bas aussi
